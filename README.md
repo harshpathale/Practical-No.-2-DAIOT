@@ -1,6 +1,6 @@
 # Practical-No.-2-DAIOT
 Write the code to control the LED
- Theory
+Theory
 LED (Light Emitting Diode)
 An LED is a semiconductor device that emits light when current flows through it. LEDs are commonly used in electronics to indicate status or provide visual feedback.
 7-Segment Display (SSD)
@@ -106,7 +106,7 @@ void displayDigit(int digit) {
   digitalWrite(segF, pattern & 0b00100000);
   digitalWrite(segG, pattern & 0b01000000);
 }
-<img width="1280" height="835" alt="image" src="https://github.com/user-attachments/assets/fe5ca004-1f98-4cb6-b64e-4025ca2ed94d" />
+<img width="1280" height="835" alt="image" src="
 
 Fig;- Arduino board with the LED and 7-segment display connected.
 7. Working	

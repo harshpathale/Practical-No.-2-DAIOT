@@ -14,7 +14,7 @@ LED
 220-ohm resistors (for LED and SSD)
 Breadboard
 Jumper wires
-Procedure
+# Procedure
 Part 1: Connecting the LED
 Connect the LED:
 Place the LED on the breadboard.
